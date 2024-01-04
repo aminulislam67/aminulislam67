@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hello there! 👋 Welcome to my GitHub repository! I'm on an exciting learning journey, diving deep into the realms of Domain-Driven Design (DDD) and Clean Architecture using the powerful combination of .NET Core 8 and Angular. Join me as I explore the intricacies of building robust, scalable, and maintainable software solutions. Expect to find a mix of code snippets, projects, and documentation reflecting my hands-on experience and insights gained along the way. Let's collaborate, learn, and grow together in the ever-evolving landscape of software development! 🚀 #CodingAdventures #DDD #CleanArchitecture #DotNetCore #Angular
+Hi there 👋 I'm Md. Aminul Islam
+Hello there! 👋 Welcome to my GitHub repository! I'm a Junior Software Engineer at Bdjobs.com, based in the vibrant tech scene of Bangladesh. As I embark on my coding adventures, I'm deeply immersed in learning and implementing Domain-Driven Design (DDD) and Clean Architecture with the latest technologies, including .NET Core 8 and Angular. This space is a reflection of my journey, featuring code snippets, projects, and documentation capturing my hands-on experiences. Let's connect, collaborate, and grow together in the dynamic world of software development! 🚀 #CodingAdventures #DDD #CleanArchitecture #DotNetCore #Angular #Bdjobs #BangladeshTech
 
 
 ## 🌐 Socials:
