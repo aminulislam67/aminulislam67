@@ -1,4 +1,5 @@
-Hi there 👋 I'm Md. Aminul Islam
+# Hi there 👋 I'm Md. Aminul Islam
+
 Hello there! 👋 Welcome to my GitHub repository! I'm a Junior Software Engineer at Bdjobs.com, based in the vibrant tech scene of Bangladesh. As I embark on my coding adventures, I'm deeply immersed in learning and implementing Domain-Driven Design (DDD) and Clean Architecture with the latest technologies, including .NET Core 8 and Angular. This space is a reflection of my journey, featuring code snippets, projects, and documentation capturing my hands-on experiences. Let's connect, collaborate, and grow together in the dynamic world of software development! 🚀 #CodingAdventures #DDD #CleanArchitecture #DotNetCore #Angular #Bdjobs #BangladeshTech
 
 
